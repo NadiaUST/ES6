@@ -1,4 +1,4 @@
-Prototype Inheritance — Homework
+##Prototype Inheritance — Homework
 📌 Description
 
 This project demonstrates class inheritance in JavaScript using ES6 syntax.
